@@ -1,0 +1,29 @@
+best validation accuracy achieved during cross-validation: 0.511000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.400000e-01 hid 5.000000e+01 train accuracy: 50.193878 val accuracy: 46.900000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.400000e-01 hid 1.000000e+02 train accuracy: 51.181633 val accuracy: 50.700000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.400000e-01 hid 2.000000e+02 train accuracy: 53.006122 val accuracy: 51.100000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.600000e-01 hid 5.000000e+01 train accuracy: 50.538776 val accuracy: 49.500000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.600000e-01 hid 1.000000e+02 train accuracy: 52.593878 val accuracy: 50.200000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.600000e-01 hid 2.000000e+02 train accuracy: 52.620408 val accuracy: 50.500000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.800000e-01 hid 5.000000e+01 train accuracy: 49.793878 val accuracy: 46.200000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.800000e-01 hid 1.000000e+02 train accuracy: 51.959184 val accuracy: 47.400000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.800000e-01 hid 2.000000e+02 train accuracy: 52.193878 val accuracy: 48.000000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.400000e-01 hid 5.000000e+01 train accuracy: 49.942857 val accuracy: 47.900000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.400000e-01 hid 1.000000e+02 train accuracy: 51.508163 val accuracy: 49.900000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.400000e-01 hid 2.000000e+02 train accuracy: 53.153061 val accuracy: 48.700000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.600000e-01 hid 5.000000e+01 train accuracy: 50.038776 val accuracy: 48.700000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.600000e-01 hid 1.000000e+02 train accuracy: 50.818367 val accuracy: 48.200000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.600000e-01 hid 2.000000e+02 train accuracy: 52.851020 val accuracy: 51.100000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.800000e-01 hid 5.000000e+01 train accuracy: 50.138776 val accuracy: 47.100000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.800000e-01 hid 1.000000e+02 train accuracy: 51.806122 val accuracy: 47.200000
+lr 1.000000e-03 reg 1.000000e-01 lrd 9.800000e-01 hid 2.000000e+02 train accuracy: 53.455102 val accuracy: 50.400000
+lr 1.000000e-03 reg 1.000000e+00 lrd 9.400000e-01 hid 5.000000e+01 train accuracy: 48.020408 val accuracy: 46.800000
+lr 1.000000e-03 reg 1.000000e+00 lrd 9.400000e-01 hid 1.000000e+02 train accuracy: 49.730612 val accuracy: 48.200000
+lr 5.000000e-03 reg 1.000000e-01 lrd 9.200000e-01 hid 5.000000e+01 train accuracy: 8.855102 val accuracy: 7.100000
+best validation accuracy achieved during cross-validation: 0.505000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.000000e-01 hid 3.000000e+02 train accuracy: 52.312245 val accuracy: 48.700000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.500000e-01 hid 2.000000e+02 train accuracy: 53.222449 val accuracy: 50.500000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.500000e-01 hid 2.500000e+02 train accuracy: 54.040816 val accuracy: 49.300000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.500000e-01 hid 3.000000e+02 train accuracy: 50.963265 val accuracy: 45.900000
+lr 1.000000e-03 reg 1.000000e-02 lrd 9.500000e-01 hid 4.000000e+02 train accuracy: 53.718367 val accuracy: 49.100000
+lr 1.000000e-03 reg 5.000000e-02 lrd 9.500000e-01 hid 2.000000e+02 train accuracy: 53.277551 val accuracy: 50.300000
