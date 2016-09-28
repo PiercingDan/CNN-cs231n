@@ -1,4 +1,4 @@
-# Convolutional Neural Networks for Visual Recognition
+#Neural Networks for Visual Recognition
 Based of Stanford cs231n.
 Convolutional Neural Networks for Visual Recognition. 
 
