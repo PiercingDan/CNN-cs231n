@@ -1,4 +1,4 @@
-#Neural Networks for Visual Recognition
+# Neural Networks for Visual Recognition
 Based off [Stanford cs231n](http://cs231n.github.io/).
 Neural Networks for Visual Recognition. 
 
