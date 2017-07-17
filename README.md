@@ -2,7 +2,7 @@
 Based off [Stanford cs231n](http://cs231n.github.io/).
 Neural Networks for Visual Recognition. 
 
-This is my work on the Stanford cs231n assignments. 
+This is my work on the Stanford cs231n Winter 2016 assignments. 
 
 In these assignments, I coded the layer architecture needed for vanilla neural networks, convolutional neural networks and recurrent neural networks, such as the loss functions, and the forward/backward passes for convolutional layers, pooling layers, affine layers, recurrent and LSTM layers.
 
